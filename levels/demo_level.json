@@ -1,0 +1,22 @@
+[
+  {
+    "id": "return_portal",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF-Binary/Box.glb",
+    "pos": [0, 0, 5],
+    "rot": [0, 0, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": true,
+    "interactionType": "PORTAL",
+    "linkUrl": "levels/start_level.json"
+  },
+  {
+    "id": "floating_island",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Binary/Duck.glb",
+    "pos": [0, 5, -10],
+    "rot": [0, 0, 0],
+    "scl": [3, 3, 3],
+    "animationEnabled": true,
+    "interactionType": "PROXIMITY",
+    "linkUrl": "https://threejs.org"
+  }
+]

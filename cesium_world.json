@@ -1,0 +1,71 @@
+[
+  {
+    "id": "spawn_point",
+    "url": "",
+    "pos": [0, 0, 0],
+    "rot": [0, 0, 0],
+    "scl": [0, 0, 0],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "base_floor",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, -0.1, 0],
+    "rot": [0, 0, 0],
+    "scl": [20, 0.1, 20],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "cesium_man_statue",
+    "url": "https://raw.githubusercontent.com/CesiumGS/cesium/master/Apps/SampleData/models/CesiumMan/Cesium_Man.glb",
+    "pos": [3, 0, -2],
+    "rot": [0, -0.8, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": true,
+    "interactionType": "CLICK",
+    "linkUrl": "https://cesium.com"
+  },
+  {
+    "id": "milk_truck",
+    "url": "https://raw.githubusercontent.com/CesiumGS/cesium/master/Apps/SampleData/models/CesiumMilkTruck/CesiumMilkTruck.glb",
+    "pos": [-8, 0, -10],
+    "rot": [0, 0.5, 0],
+    "scl": [1.5, 1.5, 1.5],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "cesium_aircraft",
+    "url": "https://raw.githubusercontent.com/CesiumGS/cesium/master/Apps/SampleData/models/CesiumAir/Cesium_Air.glb",
+    "pos": [0, 15, -30],
+    "rot": [0.2, 0, 0],
+    "scl": [1, 1, 1],
+    "animationEnabled": true,
+    "interactionType": "PROXIMITY",
+    "linkUrl": ""
+  },
+  {
+    "id": "ground_vehicle",
+    "url": "https://raw.githubusercontent.com/CesiumGS/cesium/master/Apps/SampleData/models/GroundVehicle/GroundVehicle.glb",
+    "pos": [10, 0, 5],
+    "rot": [0, 3.14, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "portal_to_fantasy",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, 1, 15],
+    "rot": [0, 3.14, 0],
+    "scl": [1, 2, 0.1],
+    "interactionType": "PORTAL",
+    "linkUrl": "/fantasy_kingdom.json"
+  }
+]

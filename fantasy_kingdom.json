@@ -1,0 +1,62 @@
+[
+  {
+    "id": "start_spawn",
+    "url": "",
+    "pos": [0, 0, 0],
+    "rot": [0, 0, 0],
+    "scl": [0, 0, 0],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "main_terrain",
+    "url": "/assets/models/castle_on_hills.glb",
+    "pos": [0, -5, -30],
+    "rot": [0, 0, 0],
+    "scl": [1, 1, 1],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "giant_guardian",
+    "url": "/assets/models/king_kong_sonic.glb",
+    "pos": [15, 3, -45],
+    "rot": [0, -0.5, 0],
+    "scl": [5, 5, 5],
+    "animationEnabled": true,
+    "interactionType": "PROXIMITY",
+    "linkUrl": ""
+  },
+  {
+    "id": "portal_to_gallery",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, 1, 5],
+    "rot": [0, 0, 0],
+    "scl": [1, 2, 0.2],
+    "animationEnabled": false,
+    "interactionType": "PORTAL",
+    "linkUrl": "/gallery_level.json"
+  },
+  {
+    "id": "mystery_book",
+    "url": "/assets/models/medieval_fantasy_book.glb",
+    "pos": [-8, 2, 5],
+    "rot": [0, 0.5, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": true,
+    "interactionType": "CLICK",
+    "linkUrl": "https://xoco.studio"
+  },
+  {
+    "id": "animal_crossing_area",
+    "url": "/assets/models/animal_crossing_map.glb",
+    "pos": [-20, 0, -20],
+    "rot": [0, 0, 0],
+    "scl": [0.8, 0.8, 0.8],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  }
+]

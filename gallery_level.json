@@ -1,0 +1,82 @@
+[
+  {
+    "id": "floor",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, -0.1, 0],
+    "rot": [0, 0, 0],
+    "scl": [10, 0.1, 10],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "wall_back",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, 2, -5],
+    "rot": [1.57, 0, 0],
+    "scl": [10, 0.1, 4],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "wall_left",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [-5, 2, 0],
+    "rot": [0, 0, 1.57],
+    "scl": [0.1, 10, 4],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "wall_right",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [5, 2, 0],
+    "rot": [0, 0, 1.57],
+    "scl": [0.1, 10, 4],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "sculpture_center",
+    "url": "/assets/models/king_kong_sonic.glb",
+    "pos": [0, 0, 0],
+    "rot": [0, 0, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": true,
+    "interactionType": "CLICK",
+    "linkUrl": "https://xoco.studio"
+  },
+  {
+    "id": "art_1",
+    "url": "/assets/models/king_kong_sonic.glb",
+    "pos": [-4.8, 1.5, -2],
+    "rot": [0, 1.57, 0],
+    "scl": [0.5, 0.5, 0.5],
+    "animationEnabled": true,
+    "interactionType": "PROXIMITY",
+    "linkUrl": ""
+  },
+  {
+    "id": "art_2",
+    "url": "/assets/models/king_kong_sonic.glb",
+    "pos": [4.8, 1.5, 2],
+    "rot": [0, -1.57, 0],
+    "scl": [0.5, 0.5, 0.5],
+    "animationEnabled": true,
+    "interactionType": "PROXIMITY",
+    "linkUrl": ""
+  },
+  {
+    "id": "exit_portal",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [0, 1, 4.5],
+    "rot": [0, 0, 0],
+    "scl": [1, 2, 0.1],
+    "animationEnabled": false,
+    "interactionType": "PORTAL",
+    "linkUrl": "/assets/levels/main_hub.json"
+  }
+]

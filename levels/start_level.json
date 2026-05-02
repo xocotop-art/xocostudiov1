@@ -1,0 +1,22 @@
+[
+  {
+    "id": "door_to_demo",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF-Binary/Box.glb",
+    "pos": [5, 0, 0],
+    "rot": [0, 0, 0],
+    "scl": [2, 2, 2],
+    "animationEnabled": true,
+    "interactionType": "PORTAL",
+    "linkUrl": "levels/demo_level.json"
+  },
+  {
+    "id": "info_duck",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Binary/Duck.glb",
+    "pos": [-5, 0, 0],
+    "rot": [0, 1.5, 0],
+    "scl": [1, 1, 1],
+    "animationEnabled": true,
+    "interactionType": "HOTSPOT",
+    "linkUrl": "https://viverse.com"
+  }
+]

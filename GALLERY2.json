@@ -1,0 +1,46 @@
+[
+  {
+    "id": "spawn_start",
+    "url": "",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      0,
+      0,
+      0
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "c64z1v56z",
+    "url": "blob:http://localhost:5173/9a2a6451-7082-4155-8d11-ef902331adac",
+    "pos": [
+      2.1518986902866772,
+      0,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      32.78752715162408,
+      32.78752715162408,
+      32.78752715162408
+    ],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  }
+]

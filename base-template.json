@@ -1,0 +1,47 @@
+[
+  {
+    "id": "start_spawn",
+    "url": "",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      0,
+      0,
+      0
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  },
+  {
+    "id": "clean_floor",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Box/glTF-Binary/Box.glb",
+    "pos": [
+      0,
+      -0.05,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      100,
+      0.1,
+      100
+    ],
+    "color": "#3d3d3d",
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": ""
+  }
+]

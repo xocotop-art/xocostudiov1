@@ -1,0 +1,94 @@
+[
+  {
+    "id": "floor",
+    "url": "/assets/models/LGL_Export.glb",
+    "pos": [
+      0.888979379638708,
+      -0.1,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      20,
+      0.1,
+      20
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-1"
+  },
+  {
+    "id": "video_frame",
+    "url": "/assets/media/video.mp4",
+    "pos": [
+      0,
+      8.227965329215845,
+      -8
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      1.352635679931746,
+      1.242267539589606,
+      0.38283674426467384
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  },
+  {
+    "id": "gif_frame_2",
+    "url": "/assets/media/gif67.gif",
+    "pos": [
+      9,
+      6.944485107958684,
+      0
+    ],
+    "rot": [
+      0,
+      -1.57,
+      0
+    ],
+    "scl": [
+      1.736313624438798,
+      1.736313624438798,
+      0.289385604073133
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  },
+  {
+    "id": "3jav3kp85",
+    "url": "blob:http://localhost:5176/69653f60-9da3-4162-9190-ae6e489fba69",
+    "pos": [
+      -29.3967831911553,
+      0,
+      0
+    ],
+    "rot": [
+      0,
+      1.4041214128229418,
+      0
+    ],
+    "scl": [
+      1.6640111844918244,
+      1.6640111844918244,
+      1.6640111844918244
+    ],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  }
+]

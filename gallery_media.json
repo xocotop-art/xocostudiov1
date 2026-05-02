@@ -1,0 +1,117 @@
+[
+  {
+    "id": "floor",
+    "url": "assets/models/LGL_Export.glb",
+    "pos": [
+      0,
+      -0.1,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      20,
+      0.1,
+      20
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-1"
+  },
+  {
+    "id": "video_frame",
+    "url": "assets/media/video.mp4",
+    "pos": [
+      0,
+      8.227965329215845,
+      -8
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      1.352635679931746,
+      1.242267539589606,
+      0.38283674426467384
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  },
+  {
+    "id": "gif_frame_1",
+    "url": "assets/media/gif.gif",
+    "pos": [
+      -12.275613072518095,
+      6.944485107958684,
+      0.6008997297417169
+    ],
+    "rot": [
+      0,
+      1.57,
+      0
+    ],
+    "scl": [
+      1.736313624438798,
+      1.736313624438798,
+      0.289385604073133
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  },
+  {
+    "id": "gif_frame_2",
+    "url": "assets/media/gif67.gif",
+    "pos": [
+      9,
+      6.944485107958684,
+      0
+    ],
+    "rot": [
+      0,
+      -1.57,
+      0
+    ],
+    "scl": [
+      1.736313624438798,
+      1.736313624438798,
+      0.289385604073133
+    ],
+    "animationEnabled": false,
+    "interactionType": "NONE",
+    "linkUrl": "",
+    "layerId": "layer-2"
+  },
+  {
+    "id": "king_kong",
+    "url": "assets/models/king_kong_sonic.glb",
+    "pos": [
+      0,
+      0,
+      0
+    ],
+    "rot": [
+      0,
+      0,
+      0
+    ],
+    "scl": [
+      3,
+      3,
+      3
+    ],
+    "animationEnabled": true,
+    "interactionType": "NONE",
+    "linkUrl": "https://xoco.studio",
+    "layerId": "layer-2"
+  }
+]
